@@ -1,0 +1,14 @@
+@font-face{
+    font-family: sourcesans;
+    src: url(../fuentes/SourceSansPro-Regular.ttf);
+}
+
+@font-face{
+    font-family: light;
+    src: url(../fuentes/SourceSansPro-Light.ttf);
+}
+
+@font-face{
+    font-family: quattrocento;
+    src: url(../fuentes/Quattrocento-Regular.ttf);
+}
